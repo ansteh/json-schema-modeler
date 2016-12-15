@@ -1,6 +1,6 @@
 {
   "name": "json-schema-modeler",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "JSON Sample to JSON Schema",
   "main": "index.js",
   "scripts": {
