@@ -1,0 +1,34 @@
+{
+  "name": "json-schema-modeler",
+  "version": "0.0.0",
+  "description": "JSON Sample to JSON Schema",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ansteh/json-schema-modeler.git"
+  },
+  "keywords": [
+    "json",
+    "scheme",
+    "modeler",
+    "extract",
+    "parser"
+  ],
+  "author": "Andre Stehle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ansteh/json-schema-modeler/issues"
+  },
+  "dependencies": {
+    "lodash": "^4.17.2"
+  },
+  "devDependencies": {
+
+  }
+}
